@@ -1,7 +1,5 @@
 # Hex-Dumper
 
-![image](https://user-images.githubusercontent.com/93339246/141319345-45d206c9-aa14-4e98-8084-b5b406c539b4.png)
-
 ## About
 HD is a simple hex dumper, you can dump the hex from specified files!
 
