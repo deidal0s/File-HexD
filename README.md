@@ -8,13 +8,13 @@ HD is a simple hex dumper, you can dump the hex from specified files!
 ## Win Installation
 1. Put this Link in your browser
 ```bash
-https://github.com/Kerago/Hex-Dumper/releases/tag/Install
+https://github.com/deidal0s/Hex-Dumper/releases/tag/Install
 ```
 
 ## Linux Installation
 1.
 ```bash
-git clone https://github.com/Kerago/Hex-Dumper/
+git clone https://github.com/deidal0s/Hex-Dumper/
 ```
 2.
 ```bash
@@ -26,11 +26,11 @@ python3 main.py
 ```
 4. 1 Liner
 ```bash
-git clone https://github.com/Kerago/Hex-Dumper/ && cd Hex-Dumper && python3 main.py
+git clone https://github.com/deidal0s/Hex-Dumper/ && cd Hex-Dumper && python3 main.py
 ```
 
 ## Contact Me!
-[![Instagram](https://img.shields.io/badge/Instagram-202020?logo=instagram)](https://instagram.com/keragosec)
+[![Instagram](https://img.shields.io/badge/Instagram-202020?logo=instagram)](https://instagram.com/deidal0ssec)
 <br />
 [![Discord](https://img.shields.io/badge/Discord-202020?logo=discord)](https://discord.gg/users/903449942151008347)
 <br />
